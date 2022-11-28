@@ -1,0 +1,10 @@
+{
+  "require": {
+    "friendsofphp/php-cs-fixer":""
+  },
+  "autoload": {
+    "psr-4": {
+      "MyApp\\":"src/"
+    }
+  }
+}
